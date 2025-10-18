@@ -84,7 +84,7 @@ Players with the most MoM awards include:
 
 ## 📁 File Information  
 
-- **Screenshot:** [`Screenshot 2025-09-13 010030.png`](https://github.com/ashish78566/Excel_Projects/blob/main/Screenshot%202025-09-13%20010030.png)  
+- **Screenshot:** [`Screenshot 2025-09-13 010030.png`](https://github.com/ashish78566/Excel_Projects/blob/main/IPL%20Data%20Analysis/Screenshot%202025-09-13%20010030.png)  
 - Displays a full view of the IPL dashboard and its components.  
 
 ---
@@ -123,4 +123,4 @@ This project is licensed under the **MIT License** — you may use, modify, or s
 
 ## 🏏 Dashboard Preview  
 
-[![IPL Analysis Dashboard](https://github.com/ashish78566/Excel_Projects/blob/main/Screenshot%202025-09-13%20010030.png)](https://github.com/ashish78566/Excel_Projects/blob/main/Screenshot%202025-09-13%20010030.png)
+[![IPL Analysis Dashboard](https://github.com/ashish78566/Excel_Projects/blob/main/IPL%20Data%20Analysis/Screenshot%202025-09-13%20010030.png)](https://github.com/ashish78566/Excel_Projects/blob/main/IPL%20Data%20Analysis/Screenshot%202025-09-13%20010030.png)
