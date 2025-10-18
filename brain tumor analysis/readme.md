@@ -101,10 +101,10 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ---
 
-## 📜 Author  
-**Created by:** *[Your Name]*  
-**Date:** September 2025  
-**Contact:** [your.email@example.com]  
+## 👤 Author  
+**Created by:** [Ashish Kumar](https://github.com/ashish78566)  
+📅 **Date:** September 2025  
+📧 **Contact:** ashish78566@gmail.com  
 
 ---
 
